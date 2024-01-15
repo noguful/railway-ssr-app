@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/react-complete-guide/static/css/main.68af89e7.css",
-    "main.js": "/react-complete-guide/static/js/main.1a308c4f.js",
-    "static/js/787.c6aa6761.chunk.js": "/react-complete-guide/static/js/787.c6aa6761.chunk.js",
-    "index.html": "/react-complete-guide/index.html",
-    "main.68af89e7.css.map": "/react-complete-guide/static/css/main.68af89e7.css.map",
-    "main.1a308c4f.js.map": "/react-complete-guide/static/js/main.1a308c4f.js.map",
-    "787.c6aa6761.chunk.js.map": "/react-complete-guide/static/js/787.c6aa6761.chunk.js.map"
+    "main.css": "/railway-ssr-app/static/css/main.68af89e7.css",
+    "main.js": "/railway-ssr-app/static/js/main.0a626ce2.js",
+    "static/js/787.c6aa6761.chunk.js": "/railway-ssr-app/static/js/787.c6aa6761.chunk.js",
+    "index.html": "/railway-ssr-app/index.html",
+    "main.68af89e7.css.map": "/railway-ssr-app/static/css/main.68af89e7.css.map",
+    "main.0a626ce2.js.map": "/railway-ssr-app/static/js/main.0a626ce2.js.map",
+    "787.c6aa6761.chunk.js.map": "/railway-ssr-app/static/js/787.c6aa6761.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.68af89e7.css",
-    "static/js/main.1a308c4f.js"
+    "static/js/main.0a626ce2.js"
   ]
 }
