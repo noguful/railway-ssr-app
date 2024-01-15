@@ -13,7 +13,7 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <h1>Astronomy Picture of the Day</h1>
+        <h1>Astronomy Picture of the Day（個人開発用）</h1>
       </header>
       <main className="App-main">
         <div className="App-image">
