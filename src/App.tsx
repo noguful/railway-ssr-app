@@ -5,7 +5,7 @@ import './App.css';
 
 function App() {
   const fetcher = (url: string) => axios.get(url).then(res => res.data);
-  const { data, error, isLoading } = useSWR(`https://api.nasa.gov/planetary/apod?api_key=${apiKey}&date=2024-01-14`, fetcher);
+  const { data, error, isLoading } = useSWR(`https://api.nasa.gov/planetary/apod?api_key=${apiKey}`, fetcher);
 
   if (error) return <div>failed to load</div>
   if (isLoading) return <div>loading...</div>
