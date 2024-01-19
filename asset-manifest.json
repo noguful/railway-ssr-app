@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/railway-ssr-app/static/css/main.68af89e7.css",
-    "main.js": "/railway-ssr-app/static/js/main.19d8a892.js",
-    "static/js/787.c6aa6761.chunk.js": "/railway-ssr-app/static/js/787.c6aa6761.chunk.js",
+    "main.js": "/railway-ssr-app/static/js/main.ccf60bf7.js",
+    "static/js/651.18ae0669.chunk.js": "/railway-ssr-app/static/js/651.18ae0669.chunk.js",
     "index.html": "/railway-ssr-app/index.html",
     "main.68af89e7.css.map": "/railway-ssr-app/static/css/main.68af89e7.css.map",
-    "main.19d8a892.js.map": "/railway-ssr-app/static/js/main.19d8a892.js.map",
-    "787.c6aa6761.chunk.js.map": "/railway-ssr-app/static/js/787.c6aa6761.chunk.js.map"
+    "main.ccf60bf7.js.map": "/railway-ssr-app/static/js/main.ccf60bf7.js.map",
+    "651.18ae0669.chunk.js.map": "/railway-ssr-app/static/js/651.18ae0669.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.68af89e7.css",
-    "static/js/main.19d8a892.js"
+    "static/js/main.ccf60bf7.js"
   ]
 }
