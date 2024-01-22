@@ -7,12 +7,16 @@ const app = express()
 const port = 9000
 
 app.get('/', (req, res) => {
-  const content = renderToString(<App />);
+  const renderedHtml = renderToString(<App />);
   res.send(`
-    <html>
-      <body>
-        <div id="root">${content}</div>
-      </body>
+    <!DOCTYPE html>
+    <html lang="ja">
+    <head>
+      <title>SSRをしよう</title>
+    </head>
+    <body>
+      <div id="root">${renderedHtml}</div>
+    </body>
     </html>
   `);
 })
