@@ -7,6 +7,8 @@ import express from 'express';
 const app = express()
 const port = 9000
 
+app.use(express.static('dist'));
+
 app.get('/', (req, res) => {
 
   res.send('Hello World!')
@@ -17,6 +19,7 @@ app.get('/', (req, res) => {
   //   <html lang="ja">
   //   <head>
   //     <title>SSRをしよう</title>
+  //     <link rel="stylesheet" href="/main.css" />
   //   </head>
   //   <body>
   //     <div id="root">${renderedHtml}</div>
